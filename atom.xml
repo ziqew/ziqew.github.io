@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[In the Air]]></title>
   <link href="http://ziqew.github.io/atom.xml" rel="self"/>
   <link href="http://ziqew.github.io/"/>
-<<<<<<< HEAD
-  <updated>2014-04-11T11:27:25+08:00</updated>
-=======
-  <updated>2014-04-11T11:09:57+08:00</updated>
->>>>>>> eb51fe8897dbd3973d0bed8c053bca9d1b573cdb
+  <updated>2014-04-11T15:01:14+08:00</updated>
   <id>http://ziqew.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[ZQ]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
