@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Markdown | In the Air]]></title>
+  <link href="http://ziqew.github.io/blog/categories/markdown/atom.xml" rel="self"/>
+  <link href="http://ziqew.github.io/"/>
+  <updated>2014-04-11T16:02:54+08:00</updated>
+  <id>http://ziqew.github.io/</id>
+  <author>
+    <name><![CDATA[ZQ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Markdown Cheatsheet]]></title>
+    <link href="http://ziqew.github.io/blog/2014/04/11/markdown-cheatsheet/"/>
+    <updated>2014-04-11T15:50:21+08:00</updated>
+    <id>http://ziqew.github.io/blog/2014/04/11/markdown-cheatsheet</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
