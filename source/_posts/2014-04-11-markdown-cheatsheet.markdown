@@ -238,7 +238,5 @@ Left         | Center        | Right
 
 Don't forget to check Preferences, lots of useful options are there.
 
-Follow [@chenluois](http://twitter.com/chenluois) on Twitter for the latest news.
 
-For feedback, use the menu `Help` - `Send Feedback`
 
